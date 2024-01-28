@@ -1,0 +1,9 @@
+key parent ui_verbs~!vehicle_VehicleTypeTemplate
+texts creatureAbilityDescription
+	"A turret is a special type of building, designed to defend against invading civilizations."
+end
+texts creatureAbilityName
+	"Turret"
+end
+key verbIconImageID stats_military_icon
+key verbIconTrayOverrideImageID stats_military_icon

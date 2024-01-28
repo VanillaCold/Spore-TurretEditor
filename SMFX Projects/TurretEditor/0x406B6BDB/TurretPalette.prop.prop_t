@@ -1,0 +1,10 @@
+keys palettePalettePages
+	vehicle_editor_palette_pages~!ve_page_body
+	vehicle_editor_palette_pages~!ve_page_military
+	vehicle_editor_palette_pages~!ve_page_detail
+	vehicle_editor_palette_pages~!ve_page_detail2
+	vehicle_editor_palette_pages~!ve_page_landcraft
+	vehicle_editor_palette_pages~!ve_page_cockpit
+	vehicle_editor_palette_pages~!ve_page_effect
+	vehicle_editor_palette_pages~!ve_page_body2
+end

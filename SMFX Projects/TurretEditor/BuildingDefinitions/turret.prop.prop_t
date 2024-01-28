@@ -1,0 +1,41 @@
+string16 description "Turret"
+texts blockName
+	(cip!0x05b05a40) "Turret"
+end
+keys modelCreateNewAbilityList
+	city_new_turret
+end
+key modelGonzagoClassID kBuildingEntertainment~
+keys modelLockedAbilityList
+	city_locked_turret
+end
+keys modelMainAbilityList
+	city_defense
+end
+int32 modelPrice 2000
+
+texts paletteAssetSwatchEditTooltip
+	(planners!0x10000003) "Tooltip (PLACEHOLDER)"
+end
+key paletteAssetSwatchHeaderIcon editors_planner~!0xF9A3A473.png
+texts paletteAssetSwatchLargeNewTooltip
+	(planners!0x10000001) "Tooltip (PLACEHOLDER)"
+end
+texts paletteAssetSwatchLoadTooltip
+	(planners!0x10000004) "Tooltip (PLACEHOLDER)"
+end
+key paletteAssetSwatchLockedIcon editors_planner~!0xBFA7932B.png
+keys paletteAssetSwatchNewIcon
+	editors_planner~!0x3EB357A1.png
+	editors_planner~!0x3D35F362.png
+	editors_planner~!0x49A72B47.png
+	editors_planner~!0x2A1342AD.png
+end
+texts paletteAssetSwatchNewTooltip
+	(planners!0x10000002) "Tooltip (PLACEHOLDER)"
+end
+
+bool paletteAssetSwatchEditable true
+key paletteItemHeaderIconID CIPRollover_Defense
+key paletteItemModelType BuildingTurret
+key paletteItemType ItemPlannerTurret

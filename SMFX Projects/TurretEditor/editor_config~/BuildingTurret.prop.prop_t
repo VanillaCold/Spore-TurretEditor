@@ -1,0 +1,44 @@
+key parent editor_config~!VehicleTemplate.prop
+string16 description "House Editor"
+string16 editorAssembledContentDirectory "Content/AssembledContent/Buildings"
+key editorBackgroundModel TurretBase
+keys editorModelTypes
+	BuildingTurret
+end
+texts editorName
+	(0xFFFFFFFF!0xffffffff) "House"
+end
+texts editorNamePrompt
+	(be!0x0537199e) "Naming Prompt (PLACEHOLDER)"
+end
+key editorPaintSwatchModel building_editorModel~!buildingPaintSwatch.bld
+key editorPartsPalette palette_definition~!0xDB.prop
+key editorPedestalModel be_turret_base
+key editorSporepediaCanSwitchConfigID BLE_HouseShopper_CanSwitch
+key editorSporepediaConfigID ble_houseshopper
+key editorSwatchBackgroundModel TurretBase
+key editorSwatchPedestalModel be_turret_base
+
+key editorCameraThumbnail EditorCameraVehicleThumbnail.prop
+key editorCameraUI EditorCameraVehicleUI.prop
+key editorSwatchCameraUI EditorCameraVehicleUI
+float editorBoundSize 6
+float editorMaxHeight 10
+float editorMinHeight -10
+
+float editorMinPlayableDepth 0.1
+float editorMinPlayableHeight 0.1
+float editorMinPlayableWidth 0.1
+
+
+
+#key editorSporepediaConfigID vle_militarylandshopper
+key editorStatsFile MilitaryVehicleEditorStats
+key verbTrayCollection verbtrays!0xF5C8BC4D
+key verbTrayCollectionSporepediaLargeCard verbtrays!0xF5C8BC4D
+key verbTrayCollectionSporepediaSmallCard verbtrays!0x622D61AF
+
+
+#key editorPartsPalette palette_definition~!0x00000039.prop
+key palettePaletteThumbnailGroupID vehiclelandpainticons~!0xFFFFFFFF
+

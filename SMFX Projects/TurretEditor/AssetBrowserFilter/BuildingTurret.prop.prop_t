@@ -1,0 +1,17 @@
+bool browserAllowSortByPublished false
+key browserFilterData BuildingTurret
+texts browserFilterName
+	"Turrets" #(sporepedia!0x00020003) "Cells"
+end
+
+keys browserFilterButtonGraphic
+	AssetBrowserGraphics!0x05DD85BE.png #normal
+	AssetBrowserGraphics!0x05DD85BF.png #disabled
+	AssetBrowserGraphics!0x05DD85BD.png #hovered
+	AssetBrowserGraphics!0x05DD85BC.png #being clicked
+	AssetBrowserGraphics!0x05DD85BB.png #selected
+	AssetBrowserGraphics!0x05DD85BF.png #disabled again
+	AssetBrowserGraphics!0x05DD85BA.png #clicked and selected?
+	AssetBrowserGraphics!0x05DD85BC.png #not sure
+	AssetBrowserGraphics!0x05DD85BF.png #disabled again?
+end

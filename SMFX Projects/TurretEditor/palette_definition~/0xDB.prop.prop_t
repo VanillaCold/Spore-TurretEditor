@@ -1,0 +1,4 @@
+key parent palette_config~!TemplatePaletteParts.prop
+string16 description "Test Editor Palette"
+int32 palettePaletteStartupCategory 0
+key palettePaletteThumbnailGroupID vehicleparticons~!0xFFFFFFFF

@@ -1,0 +1,42 @@
+ui_verbs~	0x1b68db4
+EditorCameraVehicleThumbnail
+AssetBrowserGraphics
+auto_CustomAssetTypes_BuildingTurret
+models
+BuildingTurret
+BE_editor_base_low
+be_turret_base
+vehicle_militaryland
+stats_military_icon
+auto_palette_definition~_0xDB
+TurretBase
+be_editor_base_ui_style_background
+auto_editor_rigblock~_be_turret_base
+buildingPaintSwatch
+DefaultTemplate
+sporemaster
+ble_houseshopper
+auto_ui_verbs~_BuildingTurret
+names
+verbtrays
+buildingparticons~	0x2231fe7
+CustomAssetTypes
+auto_editor_config~_BuildingTurret
+auto_editor_rigblock~_TurretBase
+BuildingHouse
+EditorCameraVehicleUI
+ExpansionPack1
+MilitaryVehicleEditorStats
+BLE_HouseShopper_CanSwitch
+be
+vehicle_VehicleTypeTemplate
+editor_config~	0x40600100
+editor_rigblock~	0x40606000
+building_editorModel~	0x40636200
+palette_definition~	0x406b6a00
+palette_config~	0x406b0100
+VehicleMilitaryLand
+TemplatePaletteDefinition
+VehicleTemplate
+BuildingTemplate
+vehiclelandpainticons~	0x6ebb92cf

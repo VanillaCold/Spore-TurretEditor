@@ -1,0 +1,26 @@
+string8 name "Turret asset type"
+
+#The name of the asset type as appears in-editor. Can be localised.
+texts assetTypeName 
+	"Turret Building"
+end
+
+#The editor to use when trying to edit from the Sporepedia.
+key editorToUse editor_config~!BuildingTurret
+
+#The editor and asset type to take hardcoded verbtrays from
+key editorParentEditor editor_config~!VehicleTemplate
+uint32 editorPretendType hash(VehicleMilitaryLand)
+#Custom verbtray. The override verbtray is the one used by the pretend type.
+uint32 editorOverrideVerbtray hash(vehicle_militaryland)
+bool useCustomVerbtray true
+
+#The "parent" type - this is the type that Spore will treat yours as.
+key parentAssetType VehicleMilitaryLand
+
+#The background for your asset type in the editor.
+uint32 assetTypeBackgroundID hash(Backdrop_Building_Turret)
+#Whether or not the Share button will be enabled for your type.
+bool assetTypeSharable false
+
+uint32 assetTypeSporepediaFilterID hash(BuildingTurret)
