@@ -22,6 +22,9 @@ key editorSwatchPedestalModel be_turret_base
 key editorCameraThumbnail EditorCameraVehicleThumbnail.prop
 key editorCameraUI EditorCameraVehicleUI.prop
 key editorSwatchCameraUI EditorCameraVehicleUI
+
+key editorBackgroundMusicPatch music_turret_editor
+
 float editorBoundSize 6
 float editorMaxHeight 10
 float editorMinHeight -10
