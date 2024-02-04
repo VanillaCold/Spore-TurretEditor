@@ -1,4 +1,5 @@
 key parent palette_config~!TemplateManifest.prop
 keys validEditorKeys
 	TurretParts!tu_part_base_01
+	TurretParts!tu_barrel_modern
 end

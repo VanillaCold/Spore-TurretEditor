@@ -84,5 +84,6 @@ int32s palettePagePartItemRows
 end
 keys palettePagePartItems
 	TurretParts!tu_part_base_01
+	TurretParts!tu_barrel_modern
 end
 key palettePagePartParentPage TurretPage

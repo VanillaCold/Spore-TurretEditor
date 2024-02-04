@@ -1,0 +1,27 @@
+key parent VehicleEditorTemplates!VehicleWeaponMountedTemplate
+texts blockName
+	(VehicleRigblocks!0x4c84b9c2) "Boxed Missiles (PLACEHOLDER)"
+end
+int32 modelCapabilityMilitaryPower 4
+int32 modelComplexityScore 16
+#keys modelEffect
+#	0x31DDB279
+#end
+#key modelLeftFile vehicle_rigblock~!ve_barrel_moern
+float modelMaxScale 20
+key modelMeshLOD0 editor_rigblock~!tu_barrel_modern
+float modelMinScale 10
+#vector3 modelOffset (-0.1, 0, 0)
+int32 modelPrice 400
+string16 modelRigBlockAMTag "turret"
+#key modelRightFile vehicle_rigblock~!ve_weapons_01-symmetric
+vector3 modelRotation (0, 90, 0)
+#vector3 modelRotationBallHandleOffset (0, -1.2, 0)
+int32 modelRunTimeBoneCount 0
+float modelScale 0.05
+#keys modelTool#
+#	mil_09
+#end
+bool modelPointForward true
+key modelRigBlockType vehicle!weapon.mounted
+vector3 modelSwatchRotation (0,0,0)
