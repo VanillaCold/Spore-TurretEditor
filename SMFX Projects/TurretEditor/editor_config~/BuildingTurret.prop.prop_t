@@ -27,9 +27,11 @@ key editorBackgroundMusicPatch music_turret_editor
 
 float editorBoundSize 6
 float editorMaxHeight 10
-float editorMinHeight -10
+float editorMinHeight 0
 
-float editorMinPlayableDepth 0.1
+float editorMinPlayableHeightAboveGround -1.5
+
+float editorMinPlayableDepth -1.5
 float editorMinPlayableHeight 0.1
 float editorMinPlayableWidth 0.1
 

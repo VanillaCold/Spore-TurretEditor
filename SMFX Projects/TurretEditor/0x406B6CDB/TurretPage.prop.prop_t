@@ -1,0 +1,6 @@
+key parent palette_config~!TemplatePalettePartsPage.prop
+string16 description "Body"
+key paletteCategoryIcon editors_vehicle~!0x146F1488.png
+key palettePageParentCategory 0x406B6EDB!tu_category_bodies
+uint32 palettePageSequenceNumber 50
+int32 palettePageSetId 0

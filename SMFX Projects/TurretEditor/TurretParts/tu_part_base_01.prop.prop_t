@@ -1,0 +1,13 @@
+key parent VehicleEditorTemplates!VehicleChassisTemplate
+texts blockName
+	"Hexagonal Base (NOT LOCALISED)"
+end
+int32 modelCapabilityDefense 1
+int32 modelComplexityScore 1
+bboxs modelDefaultChannelsBBox
+	(-0.751776, -0.810085, 0.010017) (0.751534, 1.41519, 0.788638)
+end
+key modelMeshLOD0 editor_rigblock~!tu_part_base_01.rw4
+int32 modelPrice 100
+string16 modelRigBlockAMTag "hexagonal|cylinder"
+float modelScale 0.6

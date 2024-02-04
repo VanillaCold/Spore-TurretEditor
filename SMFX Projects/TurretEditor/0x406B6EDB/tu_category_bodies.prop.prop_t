@@ -1,0 +1,16 @@
+key parent palette_config~!TemplatePaletteCategoryParts.prop
+keys paletteCategoryIconList
+	editors_vehicle~!0xD1D341EC.png
+	editors_vehicle~!0xB0EE9AAD.png
+	editors_vehicle~!0xD9499FBA.png
+	editors_vehicle~!0x9BFD8432.png
+	editors_vehicle~!0xB9A055AC.png
+	editors_vehicle~!0xB0EE9AAD.png
+	editors_vehicle~!0xA1CEBC7A.png
+	editors_vehicle~!0x058833F2.png
+	editors_vehicle~!0x384BE6B5.png
+end
+texts paletteCategoryName
+	(VE!0xb418330c) "Bodies"
+end
+uint32 paletteCategorySequenceNumber 50

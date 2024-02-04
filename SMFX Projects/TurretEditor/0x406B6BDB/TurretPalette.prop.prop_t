@@ -1,4 +1,5 @@
 keys palettePalettePages
+	0x406B6CDB!TurretPage
 	vehicle_editor_palette_pages~!ve_page_body
 	vehicle_editor_palette_pages~!ve_page_military
 	vehicle_editor_palette_pages~!ve_page_detail
